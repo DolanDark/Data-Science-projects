@@ -1,2 +1,2 @@
 # Data-Science-projects
-A number of projects i have been making for learning
+A number of data science projects.
