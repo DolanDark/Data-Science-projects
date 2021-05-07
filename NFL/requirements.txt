@@ -1,0 +1,6 @@
+base64
+streamlit
+pandas
+matplotlib.pyplot
+seaborn
+numpy
