@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 import matplotlib.pyplot as plt
 import base64
-import seaborn as sns
+#import seaborn as sns
 import yfinance as yf
 
 st.title("S&P 500 app")
